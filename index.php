@@ -3,7 +3,7 @@
 <a href="backup.php?table=DOCUMENTS">Deliveries Table</a><br />
 <a href="backup.php?table=all">All</a><br />
 <?
-require_once('../config.php');
+require_once('config.php');
 $databasehost = DB_HOST;
 $databasename = DB_DATABASE;
 $databaseusername = DB_USER;

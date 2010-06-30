@@ -1,7 +1,6 @@
-<link href="../../kpimenu.css" rel="stylesheet" type="text/css" />
 <?php
 include('../backupClass.php');
-require_once('../../config.php');
+require_once('../config.php');
 $databasehost = DB_HOST;
 $databasename = DB_DATABASE;
 $databaseusername = DB_USER;

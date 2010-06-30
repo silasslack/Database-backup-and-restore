@@ -1,5 +1,5 @@
 <?php
-require_once('../../config.php');
+require_once('../config.php');
 $databasehost = DB_HOST;
 $databasename = DB_DATABASE;
 $databaseusername = DB_USER;
