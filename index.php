@@ -1,6 +1,5 @@
 <h1>Backups</h1>
-<a href="backup.php?table=VENDOR1_ORDERS">Main Order Table</a><br />
-<a href="backup.php?table=DOCUMENTS">Deliveries Table</a><br />
+<a href="restore/index.php">Restore</a><br />
 <a href="backup.php?table=all">All</a><br />
 <?
 require_once('config.php');
